@@ -1,0 +1,64 @@
+body{
+    font-family: arial;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.clear {
+    clear: both;
+}
+.site{
+    width: 1500px;
+    margin: auto;
+    
+}
+.menu{
+    float:left;
+    padding-top: 5px;
+    background-color: yellow;
+}
+.item-menu{
+
+    letter-spacing: -.4px;
+    font-size: 12px;
+    border:1px solid yellow;
+    background: none;
+    float:left;
+    font-weight: 400;
+    padding: 5px 82px;
+    margin-top:-21px;
+    background-color: yellow;
+    margin-right:
+    font-weight:0px;
+    font-size: 18px;
+}
+.logo{
+    background-color: yellow;
+    padding-bottom: 100px;
+}
+
+.busca{
+    margin-left: 190px;
+    margin-top: -120px;
+}
+.imagem1{
+    float:left;
+    margin-top:30px;
+    margin-left: 
+}
+.imagem0{
+    float: right;
+    margin-top: -65px;
+    margin-right: 250px;
+}
+.imagem2{
+    float: left;
+    margin-top: 20px;
+    margin-left: -500px;
+}
+.trofeu{
+    float: right;
+    margin-bottom: 30px;
+    margin-right: 205px;
+}
