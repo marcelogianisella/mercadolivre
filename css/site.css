@@ -17,6 +17,8 @@ img{
     float:left;
     padding-top: 5px;
     background-color: yellow;
+    
+    
 }
 .item-menu{
     letter-spacing: -.4px;
@@ -30,10 +32,13 @@ img{
     background-color: yellow;
     font-weight:0px;
     font-size: 18px;
+    
 }
 .logo{
     background-color: yellow;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
+    
+    
 }
 .busca{
     margin-left: 190px;
@@ -42,20 +47,40 @@ img{
 .imagem1{
     float:left;
     margin-top:30px;
-    margin-left: 
+    margin-left:
+    
 }
 .imagem0{
     float: right;
     margin-top: -65px;
     margin-right: 250px;
+
 }
 .imagem2{
     float: left;
     margin-top: 20px;
     margin-left: -500px;
+
 }
 .trofeu{
     float: right;
     margin-bottom: 30px;
     margin-right: 205px;
+    width: 400px;
+}
+.informaçoes{
+    margin-left: 500px;
+    margin-bottom: 100px;
+}
+.imagem0{
+    width: 300px;
+    background-color: yellow;
+    margin-bottom: 10px;
+    float:right;
+}
+.rodapemenu{
+    margin-left: 60px;
+    font-size: 20px;
+    
+    
 }
